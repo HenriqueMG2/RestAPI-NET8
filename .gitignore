@@ -1,0 +1,52 @@
+# Arquivos de compilação
+bin/
+obj/
+
+# Dependências do NuGet
+*.nuget.props
+*.paket.props
+*.paket.targets
+packages/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Arquivos de configuração
+*.sw?
+
+# Logs e dumps
+*.log
+*.log.*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Sublime Text
+.sublime-project
+.sublime-workspace
+*.sublime-*
+
+# Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+.fake
